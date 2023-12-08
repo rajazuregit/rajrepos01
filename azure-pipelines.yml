@@ -15,5 +15,5 @@ steps:
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
+    echo See https://github.com/rajazuregit/rajrepos01.git
   displayName: 'Run a multi-line script'
